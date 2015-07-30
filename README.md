@@ -1,7 +1,9 @@
 # PyQt5-Process-Test
+
 PyQt5 Process Test App
 
-## Screenshot ##
+## Preview ##
+
 ![Preview](preview.gif)
 
 ## Requires
